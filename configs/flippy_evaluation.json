@@ -1,0 +1,23 @@
+{
+  "seeds": [0, 1],
+  "pairs": [
+    {
+      "name": "giraffe-penguin",
+      "source_keys": ["pencil_giraffe_head", "pencil_penguin"],
+      "prompt_a": "an intricate detailed hb pencil sketch of a giraffe head",
+      "prompt_b": "an intricate detailed hb pencil sketch of a penguin"
+    },
+    {
+      "name": "cat-dog",
+      "source_keys": ["pencil_cat_head", "pencil_dog_head"],
+      "prompt_a": "an sketch of a cat head",
+      "prompt_b": "an sketch of a dog head"
+    },
+    {
+      "name": "cow-walrus",
+      "source_keys": ["pencil_cow", "pencil_walrus"],
+      "prompt_a": "an intricate detailed hb pencil sketch of a black white spotted cow",
+      "prompt_b": "an intricate detailed hb pencil sketch of a walrus"
+    }
+  ]
+}

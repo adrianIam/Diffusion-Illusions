@@ -11,7 +11,8 @@ UPDATES (Sep 28):
 ![](assets/DiffusionIllusionsGif2.gif)
 
 Colab Notebooks:
-1. [Flippy Illusions](https://githubtocolab.com/RyannDaGreat/Diffusion-Illusions/blob/master/flippy_illusions_for_colab.ipynb)
+0. [Experimental SDXL + SD1 Flippy Illusions](https://colab.research.google.com/github/adrianIam/Diffusion-Illusions/blob/codex/sdxl-flippy-colab/flippy_illusions_sdxl_colab.ipynb) — safe fork setup, smoke test, checkpoints and resume. [Implementation and validation status](docs/sdxl-flippy.md). GPU execution and quality comparisons are pending.
+1. [SD1 Flippy Illusions (historical)](https://colab.research.google.com/github/adrianIam/Diffusion-Illusions/blob/codex/sdxl-flippy-colab/flippy_illusions_for_colab.ipynb)
 2. [Rotation Overlays](https://githubtocolab.com/RyannDaGreat/Diffusion-Illusions/blob/master/rotation_overlays_for_colab.ipynb)
 3. [Hidden Characters](https://githubtocolab.com/RyannDaGreat/Diffusion-Illusions/blob/master/hidden_characters_for_colab.ipynb)
 4. [Parker Puzzles](https://githubtocolab.com/RyannDaGreat/Diffusion-Illusions/blob/master/parker_puzzle_colab.ipynb)
